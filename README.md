@@ -1,2 +1,2 @@
 # S1DeforExplore
-Tools for Sentinel-1 data reading and analysis 
+Some python scripts for Sentinel-1 data reading and basic analysis 
